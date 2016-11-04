@@ -1,5 +1,5 @@
-const SMALL_TIME = 2;
-const BIG_TIME = 5;
+const SMALL_TIME = 1;
+const BIG_TIME = 3;
 const POWER = Power1.easeInOut;
 const LINEAR = Linear.easeNone;
 const YELLOW = "#FF7";
